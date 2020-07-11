@@ -1,0 +1,15 @@
+<div class="col col-aside blog-recent">
+			<!-- BEGINNING OF THE HTML CODE FOR RECENT POSTS ON THE RIGHT HAND SIDE-->
+			<h4>Recent Posts</h4>
+			<ul class="blog-title-list">
+				{% for post in site.posts limit:5 %}
+				<li>
+					<a href="{{ post.url }}">{{ post.title }}</a>
+												
+						<span>Posted: {{ post.date | date: '%B %d, %Y' }} by: {{ post.author}}, {{ post.location }}</span>
+						
+						</li>
+				{% endfor %}
+			</ul>
+			<!-- END OF THE HTML CODE FOR RECENT POSTS ON THE RIGHT HAND SIDE --> 
+		</div>
