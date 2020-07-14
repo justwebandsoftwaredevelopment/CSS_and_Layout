@@ -5,7 +5,7 @@ postHero: /images/shark.jpg
 author: Evelyn Power
 location: UK
 authorTwitter: https://twitter.com/justwebanddevelopment1
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
+gravatar: https://s.gravatar.com/avatar/afd2658e571fce3542cc1dc863c8707c?s=150
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 
