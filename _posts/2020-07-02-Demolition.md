@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Demolition
+description:
 postHero: /images/shark.jpg
 author: Evelyn Power
 location: UK
 authorTwitter: https://twitter.com/justwebanddevelopment1
 gravatar: https://s.gravatar.com/avatar/afd2658e571fce3542cc1dc863c8707c?s=150
-postFooter: Additional information, and maybe a <a href="#">link or two</a>
+postFooter: All Rights Reserved. An intellectual property of Evelyn Power <a href="#">See my profile</a>
 ---
 
 Call me *St. Asuzu*. Some years ago–*never mind how long
@@ -15,8 +16,8 @@ particular to interest me on shore, I thought I would sail about a little
 and see the watery part of the world. It is a way I have of driving off
 the spleen and regulating the circulation.
 
-<img class="pull-left" src="/images/PL3.JPG"
-alt="Sitting room">
+<!--<img class="pull-left" src="/images/PL3.JPG"
+alt="Sitting room">-->
 
 Whenever I find myself growing grim about the mouth; whenever it is a damp,
 drizzly November in my soul; whenever I find myself involuntarily pausing

@@ -54,7 +54,7 @@ html {
 body {
   display: flex;
   flex-direction: column;
-  font-family: 'Open Sans', helvetica, arial, sans;
+  font-family: 'Raleway', helvetica, arial, sans-serif;
   min-height: 100vh;
 }
 .content-container {
@@ -64,16 +64,23 @@ body {
   width: 100%;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Raleway', helvetica, sans;
+  font-family: 'Alegreya SC', helvetica, sans-serif;
   font-weight: 100;
 }
 h1 {
   font-size: 7vw;
   margin-top: 0;
 }
+
 h2 {
   font-size: 2em;
 }
+
+h3 {
+  font-family: 'Prompt', helvetica, sans-serif;
+  font-weight: 100;
+}
+
 h4 {
   color: #999;
   font-weight: bold;
@@ -148,12 +155,12 @@ h2 ~ p {
   width: 10vh;
 }
 .header-logo img {
-  height: 80%;
+  height: 100%;
   width: auto;
 }
 .header-logo:hover,
 .header-logo:active {
-  background-color: #ed6e2f;
+  background-color: #000;
 }
 
 /* DROPDOWN STYLES */
@@ -252,7 +259,7 @@ h2 ~ p {
   text-align: center;
 }
 .footer img {
-  width: 50px;
+  width:150px;
 }
 .footer h3 {
   color: #fff;
@@ -567,10 +574,16 @@ h2 ~ p {
   float: left;
   margin: 2em 2em 2em -2%;
 }
+
 .pull-right {
   float: right;
   margin: 2em -2% 2em 2em;
 }
+
+.post-middle-image img {
+  width: 5px;
+}
+
 .post-aside {
   background-color: rgba(0, 0, 0, 0.01);
   float: right;

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: The Refinery Only Few Visited
+description:
 postHero: /images/humanity.jpeg
-author: Felix Daniels
+author: St. Asuzu Alfred P. M.
 location: Nigeria
 authorTwitter: https://www.twitter.com/justwebandsoft1
 authorFacebook: https://www.facebook.com/asuzu.fred
